@@ -30,7 +30,10 @@ stars.to_csv("stars_final.csv")
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
 
 ## TODO
+- [ ] What was I interested in?
+- [ ] What am I interested in now?
 - [ ] python script to automate api calls for a user
 - [ ] web interface for viz
 - [ ] database? 
-- [ ] other metrics?
+- [ ] other metrics
+- [ ] good metris for pinned gist?
